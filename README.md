@@ -23,11 +23,11 @@ Just Press The Batch And Utilities.bat and it will start
 #### Q: Product Key Feature Doesn't Work!
 #### A: This feature is kind of Broken, Im trying to fix it.
 
-Features
--Check Ping
--Check IP
--View Product Key (Currently Broken)
--System Info
--And More Soon!
+### Features
+#### -Check Ping
+#### -Check IP
+#### -View Product Key (Currently Broken)
+#### -System Info
+#### -And More Soon!
 
 @Copyright 2020 Miguelsgaminch
