@@ -13,6 +13,9 @@
 ╚██████╔╝░░░██║░░░██║███████╗██║░░░██║░░░██║███████╗██████╔╝
 ░╚═════╝░░░░╚═╝░░░╚═╝╚══════╝╚═╝░░░╚═╝░░░╚═╝╚══════╝╚═════╝░
 
+![GitHub All Releases](https://img.shields.io/github/downloads/miguelsgamingch/Batch-And-Utilies/total?color=green)
+![GitHub release (latest by date)](https://img.shields.io/github/v/release/miguelsgamingch/Batch-And-Utilies)
+
 Hello And Thank For Looking Interest This Weird Batch File.
 Just Press The Batch And Utilities.bat and it will start
 
